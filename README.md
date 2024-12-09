@@ -2,12 +2,15 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=17481112)
 # Three.js Shader Hackathon Project
 
-### Name : Putri Meyliya Rachmawati
-### NRP  : 5025221062
+Name : Putri Meyliya Rachmawati 
 
-# Result
+NRP  : 5025221062
 
-# How To Run
+## Result
+
+https://github.com/user-attachments/assets/f391101e-9adf-4c5c-861f-4b8036004adc
+
+### How To Run
 First
 
 ```
